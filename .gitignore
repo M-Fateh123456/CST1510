@@ -1,7 +1,11 @@
 
-# Learning material: only each week's LAB folder is uploaded
+# Ignore weekly learning material
 Week */*
-!Week */LAB/
+
+# Include the nested LAB folders and their contents
+!Week */Week */
+!Week */Week */LAB/
+!Week */Week */LAB/**
 
 # Files that should never be uploaded
 .venv/
