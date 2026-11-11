@@ -2,7 +2,20 @@
 # Ignore weekly learning material
 Week */*
 
-# Include nested LAB folders and their contents
+# Include Week 7 walkthroughs
+!Week 07 - Strings and Text Manipulation/01 - Case and Whitespace/
+!Week 07 - Strings and Text Manipulation/01 - Case and Whitespace/**
+
+!Week 07 - Strings and Text Manipulation/02 - Searching and Replacing/
+!Week 07 - Strings and Text Manipulation/02 - Searching and Replacing/**
+
+!Week 07 - Strings and Text Manipulation/03 - Splitting, Joining and Building Strings/
+!Week 07 - Strings and Text Manipulation/03 - Splitting, Joining and Building Strings/**
+
+!Week 07 - Strings and Text Manipulation/04 - Parsing Real Text/
+!Week 07 - Strings and Text Manipulation/04 - Parsing Real Text/**
+
+# Include LAB folders
 !Week */LAB/
 !Week */LAB/**
 
