@@ -19,6 +19,19 @@ Week */*
 !Week */LAB/
 !Week */LAB/**
 
+# Include Week 8 walkthroughs
+!Week 08 - Pulling Real Data/01 - Calling a Web API/
+!Week 08 - Pulling Real Data/01 - Calling a Web API/**
+
+!Week 08 - Pulling Real Data/02 - Reading Files from the Web/
+!Week 08 - Pulling Real Data/02 - Reading Files from the Web/**
+
+!Week 08 - Pulling Real Data/03 - Light Regex/
+!Week 08 - Pulling Real Data/03 - Light Regex/**
+
+!Week 08 - Pulling Real Data/04 - From Functions to a Class/
+!Week 08 - Pulling Real Data/04 - From Functions to a Class/**
+
 # Files that should never be uploaded
 .venv/
 __pycache__/
